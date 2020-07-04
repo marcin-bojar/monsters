@@ -1,0 +1,10 @@
+.search {
+    padding: 1rem 2rem;
+    font-family: inherit;
+    font-size: inherit;
+    margin-bottom: 2.5rem;
+    outline: none;
+    border: 1px solid grey;
+    border-radius: 5px;
+    line-height: 1.5;
+}
