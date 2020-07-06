@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marcin-bojar/monsters/static/css/main.ba501845.chunk.css",
+    "main.js": "/marcin-bojar/monsters/static/js/main.a52727a7.chunk.js",
+    "main.js.map": "/marcin-bojar/monsters/static/js/main.a52727a7.chunk.js.map",
+    "runtime-main.js": "/marcin-bojar/monsters/static/js/runtime-main.4f5442b5.js",
+    "runtime-main.js.map": "/marcin-bojar/monsters/static/js/runtime-main.4f5442b5.js.map",
+    "static/js/2.ab8b341c.chunk.js": "/marcin-bojar/monsters/static/js/2.ab8b341c.chunk.js",
+    "static/js/2.ab8b341c.chunk.js.map": "/marcin-bojar/monsters/static/js/2.ab8b341c.chunk.js.map",
+    "index.html": "/marcin-bojar/monsters/index.html",
+    "precache-manifest.8a490a61f7b86b289b65528e8ca3698c.js": "/marcin-bojar/monsters/precache-manifest.8a490a61f7b86b289b65528e8ca3698c.js",
+    "service-worker.js": "/marcin-bojar/monsters/service-worker.js",
+    "static/css/main.ba501845.chunk.css.map": "/marcin-bojar/monsters/static/css/main.ba501845.chunk.css.map",
+    "static/js/2.ab8b341c.chunk.js.LICENSE.txt": "/marcin-bojar/monsters/static/js/2.ab8b341c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f5442b5.js",
+    "static/js/2.ab8b341c.chunk.js",
+    "static/css/main.ba501845.chunk.css",
+    "static/js/main.a52727a7.chunk.js"
+  ]
+}
